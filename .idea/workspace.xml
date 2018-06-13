@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a55307a-7c89-4153-a0f8-9105f81321f7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/29_main_new.1523882501.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Git.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Git/Ex1/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Ex1/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Main.java" afterPath="$PROJECT_DIR$/src/Ex1/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
